@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#logo {
+    height: 60px;
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    color: black;
+    font-weight: bolder;
+}
+.nav-link {
+    margin: 0px 10px;
+    color: black;
+    text-transform: capitalize;
+}
+#main {
+    background-color:black;
+}
+#h1 {
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.card-header {
+    background: linear-gradient(to right, #eb3c5a, #f67831);
+}
+.btn:hover {
+    background: linear-gradient(to right, #eb3c5a, #f67831);
+    color: white;
+}
+register-section .section-title h2 {
+    margin-bottom: 12px;
+}
+
+.span {
+    background: linear-gradient(to right, #eb3c5a, #f67831);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+
+}
+#footer {
+    background-color: black;
+}
+#floatingInput {
+    width: 50%;
+}
+#floatingPassword {
+    width: 50%;
+
+    
+}
+#btn {
+    width: 50%;
+}
+.nav-link:hover {
+    background: linear-gradient(to right, #eb3c5a, #f67831);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+}
+#main2 {
+    background-color: black;
+}
+#img3 {
+    height: 100%;
+}
